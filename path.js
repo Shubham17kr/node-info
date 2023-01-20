@@ -9,3 +9,4 @@ let path=require("path")
 
 let r=path.join(__dirname,"test.js")
 console.log(r)
+

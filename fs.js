@@ -30,7 +30,9 @@ let path=require('path')
 
 
 //  copy file
-let sourcepath=path.join(__dirname,"file.txt")
-let destpath=path.join(__dirname,"module","file.txt")
+// let sourcepath=path.join(__dirname,"file.txt")
+// let destpath=path.join(__dirname,"module","file.txt")
 
-fss.copyFileSync(sourcepath,destpath)
+// fss.copyFileSync(sourcepath,destpath)
+
+
